@@ -1,6 +1,26 @@
 {
   "name": "premium-lp",
   "version": "0.1.0",
+  "description": "A high-performance and visually impactful landing page, built with Next.js 16, React 19, and Tailwind CSS 4.",
+  "keywords": [
+    "nextjs",
+    "react",
+    "tailwindcss",
+    "landing-page",
+    "portfolio",
+    "glassmorphism",
+    "framer-motion"
+  ],
+  "author": "your-name",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/premium-lp.git"
+  },
+  "homepage": "https://github.com/your-username/premium-lp#readme",
+  "bugs": {
+    "url": "https://github.com/your-username/premium-lp/issues"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
