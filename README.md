@@ -85,5 +85,5 @@ src/
 ---
 
 <div align="center">
-  <sub>Developed with ❤️ by your-name</sub>
+  <sub>Developed with Pedro Moreira</sub>
 </div>

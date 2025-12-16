@@ -99,5 +99,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ---
 
 <div align="center">
-  <sub>Desenvolvido com ❤️ por seu-nome</sub>
+  <sub>Desenvolvido por Pedro Moreira</sub>
 </div>
